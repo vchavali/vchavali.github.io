@@ -7,7 +7,7 @@ layout: annotated
 <div class="annotation annotationfile" data-v="tcm-1.1.1.annotation"></div>
 # Introduction
 
-This is the first entry in my attempt at an annotated translation of Gaṅgēśa's Tattvacintāmaṇi (TCM). In this post, I will translate and discuss section I, chapter I of the first volume, *Perception* [Pratyakṣakhaṇḍaḥ]. In other words, I'm skipping the preamble, *A Theory of Good Beginnings* [Maṅgalavādaḥ], and starting with the *Prior Position* [Pūrvapakṣaḥ] section of the chapter *Detecting Evidentiality* [Prāmāṇyajñaptivādaḥ].
+This is a translation and discussion of section I, chapter I of the first volume, *Perception* [Pratyakṣakhaṇḍaḥ]. In other words, I'm skipping the preamble, *A Theory of Good Beginnings* [Maṅgalavādaḥ], and starting with the *Prior Position* [Pūrvapakṣaḥ] section of the chapter *Detecting Evidentiality* [Prāmāṇyajñaptivādaḥ].
 
 My source text is the 1973 Tirupati edition (pub. Kendriya Sanskrit Vidyapeetha, ed. N.S. Ramanuja Tatacharya). I am reading the text along with the *Prakāśa* and *Nyāyaśikhāmaṇi* commentaries; by Rucidattamiśra and Rāmakr̥ṣṇādhvarin, respectively. I also make use of Stephen Phillips' english translation and commentary. 
 

@@ -163,7 +163,7 @@ Here is an example.
 Let us define the property `Red` as representing the fact that something is red. And let us suppose that `Apple` refers to some object—an apple, say. Then we can represent the assertion that `Apple` is red with the notation:
 
 <div>
-Apple ⊢ Red
+⊢ Apple Red⸥
 </div>
 {: .quote .example}
 
@@ -245,4 +245,4 @@ A simple assertion `Ψ(a) ⊦ Φ(b)` is true if and only if there exists some ob
 
 #### Sentences
 
-## Leftlation of the Definition of Pr̥thvī from the Tarkasangrahasarvasvam
+## Translation of the Definition of Pr̥thvī from the Tarkasangrahasarvasvam

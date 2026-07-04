@@ -28,11 +28,11 @@ ata ēva na mē parārthacintā <br>
 
 But if someone happens to stumbles across this somehow... Welcome!
 
-### Posts
+### Contemporary Philosophy
 <table>
 	<tr>
 		<td><b>05/25/26&nbsp;</b></td>
-		<td><a href="rawls_5-18-26.html">Reflections on Rawlsian Public Reason Theories</a></td>
+		<td><a href="rawls_5-18-26.html">Some Reflections on Public Reason Theories of Justice</a></td>
 	</tr>
 	<tr>
 		<td><b>05/21/26&nbsp;</b></td>
@@ -40,29 +40,43 @@ But if someone happens to stumbles across this somehow... Welcome!
 </a></td>
 	</tr>
 	<tr>
-		<td><b>12/19/25&nbsp;</b></td>
-		<td><a href="sellars_12-19-25.html">Some Reflections on Sellars</a></td>
-	</tr>
-	<tr>
 		<td><b>12/15/25&nbsp;</b></td>
 		<td><a href="ai_12-15-25.html">Can Generative AI be Creative?</a></td>
+	</tr>
+	<tr>
+		<td><b>05/06/24&nbsp;</b></td>
+		<td><a href="putnam_5-6-24.html">Some Reflections on Externalist Semantics</a></td>
+	</tr>
+</table>
+
+### History of Philosophy
+
+<table>
+	<tr>
+		<td><b>12/19/25&nbsp;</b></td>
+		<td><a href="sellars_12-19-25.html">Sellars contra McDowell on Nonconceptual Mental Content</a></td>
 	</tr>
 	<tr>
 		<td><b>07/14/25&nbsp;</b></td>
 		<td><a href="jayanta-against-kumarila-term-paper.html">Jayanta against Kumarila on Moral Knowledge</a></td>
 	</tr>	
 	<tr>
-		<td><b>03/17/25&nbsp;</b></td>
-		<td><a href="tcm-1.1.1.html">Tattvacintāmaṇi । Prāmāṇyajñaptivādaḥ । Knowing our Evidence</a></td>
-	</tr>	
-	<tr>
 		<td><b>05/06/24&nbsp;</b></td>
 		<td><a href="dignaga_5-15-24.html">A Diṅnāgian Critique of Phenomenal Concepts</a></td>
 	</tr>
 	<tr>
-		<td><b>05/06/24&nbsp;</b></td>
-		<td><a href="putnam_5-6-24.html">Some Reflections on Externalist Semantics</a></td>
+		<td><b>04/26/24&nbsp;</b></td>
+		<td><a href="the_analytical_framework_of_navyanyaya.html">Some Random Thoughts on Navyanyāya</a></td>
 	</tr>
+</table>
+
+### Translations
+
+<table>
+	<tr>
+		<td><b>03/17/25&nbsp;</b></td>
+		<td><a href="tcm-1.1.1.html">Tattvacintāmaṇi । Prāmāṇyajñaptivādaḥ । Knowing our Evidence</a></td>
+	</tr>	
 	<tr>
 		<td><b>05/2/24&nbsp;</b></td>
 		<td><a href="homepage_translations.html">Homepage Translations</a></td>
@@ -71,9 +85,22 @@ But if someone happens to stumbles across this somehow... Welcome!
 		<td><b>04/27/24&nbsp;</b></td>
 		<td><a href="jayanta_dharma_jnyaanam.html">I See What I Should Do: Jayanta Bhaṭṭa on Mysticism and Moral Knowledge</a></td>
 	</tr>
+</table>
+
+### Sciencey Stuff
+
+<table>
 	<tr>
-		<td><b>04/26/24&nbsp;</b></td>
-		<td><a href="the_analytical_framework_of_navyanyaya.html">Some Random Thoughts on Navyanyāya</a></td>
+		<td><b>02/09/17&nbsp;</b></td>
+		<td><a href="https://academic.oup.com/sleep/article-abstract/40/3/zsx016/2979191">Signal-to-Noise Ratio in PVT Performance as a Cognitive Measure of the Effect of Sleep Deprivation on the Fidelity of Information Processing <b>[link to abstract]</b></a></td>
+	</tr>
+	<tr>
+		<td><b>04/27/24&nbsp;</b></td>
+		<td><a href="https://www.nature.com/articles/s41467-020-15454-y">Effective CRISPRa-mediated control of gene expression in bacteria must overcome strict target site requirements <b>[link to paper]</b></a></td>
+	</tr>
+	<tr>
+		<td><b>04/27/24&nbsp;</b></td>
+		<td><a href="https://pubs.acs.org/doi/full/10.1021/acssynbio.5b00274">A Fluorescent Readout for the Oxidation State of Electron Transporting Proteins in Cell Free Settings <b>[link to paper]</b></a></td>
 	</tr>
 </table>
 	
