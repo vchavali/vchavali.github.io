@@ -11,8 +11,9 @@ svādhyāyān mā pramadaḥ ॥ Taittirīya।Śīkṣā।11।3
 ### About
 
 <div>
-ōṁ saha nāv avatu । saha nau bunaktu । saha vīryaṁ karavāvahai । <br>
-tejasvinām adhītam astu । mā vidviṣāvahai । ōṁ śāntiḥ śāntiḥ śāntiḥ ॥
+ōṁ saha nāv avatu । saha nau bhunaktu । saha vīryaṁ karavāvahai । <br>
+tejasvinām adhītam astu । mā vidviṣāvahai । ōṁ śāntiḥ śāntiḥ śāntiḥ ॥ <br> 
+Taittirīya।Brahmānda।1।1 
 </div>
 {: .quote}
 
@@ -91,16 +92,13 @@ But if someone happens to stumbles across this somehow... Welcome!
 
 <table>
 	<tr>
-		<td><b>02/09/17&nbsp;</b></td>
-		<td><a href="https://academic.oup.com/sleep/article-abstract/40/3/zsx016/2979191">Signal-to-Noise Ratio in PVT Performance as a Cognitive Measure of the Effect of Sleep Deprivation on the Fidelity of Information Processing <b>[link to abstract]</b></a></td>
+		<td><a href="https://academic.oup.com/sleep/article-abstract/40/3/zsx016/2979191">↪ Signal-to-Noise Ratio in PVT Performance as a Cognitive Measure of the Effect of Sleep Deprivation on the Fidelity of Information Processing</a></td>
 	</tr>
 	<tr>
-		<td><b>04/27/24&nbsp;</b></td>
-		<td><a href="https://www.nature.com/articles/s41467-020-15454-y">Effective CRISPRa-mediated control of gene expression in bacteria must overcome strict target site requirements <b>[link to paper]</b></a></td>
+		<td><a href="https://www.nature.com/articles/s41467-020-15454-y">↪ Effective CRISPRa-mediated control of gene expression in bacteria must overcome strict target site requirements</a></td>
 	</tr>
 	<tr>
-		<td><b>04/27/24&nbsp;</b></td>
-		<td><a href="https://pubs.acs.org/doi/full/10.1021/acssynbio.5b00274">A Fluorescent Readout for the Oxidation State of Electron Transporting Proteins in Cell Free Settings <b>[link to paper]</b></a></td>
+		<td><a href="https://pubs.acs.org/doi/full/10.1021/acssynbio.5b00274">↪ A Fluorescent Readout for the Oxidation State of Electron Transporting Proteins in Cell Free Settings</a></td>
 	</tr>
 </table>
 	

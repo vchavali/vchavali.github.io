@@ -40,7 +40,7 @@ tejasvinām adhītam astu mā vidviṣāvahai ॥ ōṁ śāntiḥ śāntiḥ ś
 {: .quote}
 
 
-In the style typical of upaniṣads, each book of the Taittirīya begins with a peace invokation [शान्तिमन्त्रम्; śāntimantram]. The invokation, above, is from the Bhr̥guvallī and it's traditional to start one's study by reciting this verse. This website is about self-study; but, the verse makes reference to a classroom setting. The expression "us" refers to the teacher and student. 
+In the style typical of upaniṣads, each book of the Taittirīya begins with a peace invokation [शान्तिमन्त्रम्; śāntimantram]. The invokation, above, is from the Brahmānandavallī and it's traditional to start one's study by reciting this verse. This website is about self-study; but, the verse makes reference to a classroom setting. The expression "us" refers to the teacher and student. 
 
 My translation runs as follows:
 
