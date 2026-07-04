@@ -31,13 +31,13 @@ But if someone happens to stumbles across this somehow... Welcome!
 ### Posts
 <table>
 	<tr>
+		<td><b>05/25/26&nbsp;</b></td>
+		<td><a href="rawls_5-18-26.html">Reflections on Rawlsian Public Reason Theories</a></td>
+	</tr>
+	<tr>
 		<td><b>05/21/26&nbsp;</b></td>
 		<td><a href="siegel_5-21-26.html">Reflections on Siegel and the Rationality of Perception
 </a></td>
-	</tr>
-	<tr>
-		<td><b>05/19/26&nbsp;</b></td>
-		<td><a href="rawls_5-18-26.html">Reflections on Rawlsian Public Reason Theories</a></td>
 	</tr>
 	<tr>
 		<td><b>12/19/25&nbsp;</b></td>

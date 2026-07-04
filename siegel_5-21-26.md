@@ -28,7 +28,7 @@ In _The Rationality of Perception_, Siegel argues that downgraded experiences do
 
 In this paper, I will argue that while cases of downgraded experience _do_ represent instances of irrationality; this irrationality cannot be explained in terms of inferential norms. Instead, I will argue that the failure involved is best explained as failing to meet standards of practice. Where we fail to meet those standards, we are blameworthy, even when our failure does not involve any bad inferences on our part. A consequence of this is that certain of our epistemic practices may end up counting as irrational even where no prior beliefs or outlook are implicated. As such, the scope of epistemic downgrade under this model is wider than that proposed by Siegel.
 
-# Inferential Routes to Belief
+## Inferential Routes to Belief
 
 Consider the following case of an inferential route to belief:
 
@@ -50,7 +50,7 @@ Siegel argues that such a reckoning condition fails to account for a variety of 
 
 More generally, we see in cases like this that specific factors in the input information state serve both causal and normative functions: (1) they cause the epistemic agent to form a belief with the output information as content and (2) the resulting belief counts as knowledge in virtue of those factors. In the case of the post office encounter, the fact that the observer knows that the clerk is kind depends upon observing features of the interaction which can justify the subsequent belief. Therefore, the epistemic process involved is inferential.
 
-# Epistemic Charge and the Rationality of Experience
+## Epistemic Charge and the Rationality of Experience
 
 Siegel explains the transmission of rationality in inferential processes in terms of a property of epistemic states she calls _epistemic charge_[^8]. Like its electrical analogue, epistemic charge has positive and negative valence. All else being equal, an appropriate inferential response to an input epistemic state E generating an output epistemic state F transmits the charge of E to F such that F is positively charged only if E is positively charged[^9].
 
@@ -82,7 +82,7 @@ Similarly, the subsequent strengthening of the belief in preformationism via sup
 
 This being the case, we conclude that experiences possess epistemic charge in common with beliefs; since, they too occur as inputs and outputs to inferential processes. Moreover, epistemic charge is a rational property of epistemic states. It represents an evaluation in terms of their well-foundedness (as outputs to inferential processes) and epistemic power (as inputs to inferential processes). Therefore, experiential states can be rationally appraised just like belief states.
 
-# The Demarcation Problem for Inference
+## The Demarcation Problem for Inference
 
 In this section, we will argue against Siegel's claim, discussed in the previous section, that the influence of belief on experiential content is best understood as the modulation of an experience's epistemic charge by an underlying inferential process.
 
@@ -92,7 +92,7 @@ Consider the case of a blindfolded observer determining the identity of a fluid 
 
 A similar phenomenon is observed in, for instance, proprioception. Studies on phantom sensation in individuals with limb amputation suggest that the determination of limb position in space depends upon pre-existing anatomic information constituting a "body schema"[^13]. Inappropriate proprioceptive sensory content persists in patients where this body schema is no longer accurate due to the amputation. This sensory content is derived from responses to anatomic information in a manner that can be evaluated against inferential norms. However, such information does not feature as a reason for any belief or judgement on the part of the agent. It is unclear how to exclude this non-rational information on a purely response based account of inference.
 
-# Inference and the First-Person Perspective
+## Inference and the First-Person Perspective
 
 The issue of demarcation highlights a basic problem in the distinction between reasons and causes. It is because actions emanate from reasons that an action is attributable to an agent as intentional and freely undertaken. A part of their role in underwriting an agent's freedom is that reasons are endorsed by the agent. In this sense, they form a part of the agent's _own_ perspective on their actions. This is the core difference between a reason and a mere cause.
 
@@ -104,13 +104,13 @@ Without a first-person perspective, there is no meaningful demarcation between c
 
 What then to make of Siegel's cases of inference without reckoning? The answer is that explicit reckoning is not necessary for some bit of information to be considered a part of a person's first-person perspective. Consider again the case of categorizing a clerk at the post office as "kind" where various features of a social interaction act as cues for evaluation. Here, there is no explicit act of reckoning. However, the cueing features may still participate in first-personal explanations of the judgement insofar as we expect the observer to endorse them as reasons. Contrast this with the case of the preformationist. It may be the case that their prior conviction that sperm cells contain embryos influences their perceptual experience during microscopy. But this conviction would not feature as part of the preformationist's own perspective in justifying why they saw what they saw. As such, an inferential model does not serve in explaining the ill-foundedness of the preformationist's experiential content or subsequent strengthening of their conviction.
 
-# Inferential Modulation, Even If True, Cannot Explain all Cases of Epistemic Downgrade
+## Inferential Modulation, Even If True, Cannot Explain all Cases of Epistemic Downgrade
 
 Moreover, even if we accept inferential modulation as the explanation for epistemic downgrading; this analysis does not cover all instances where epistemic norms are violated by an agent in forming a belief based on an experience.
 
 Consider a physician examining a patient with a clot in a deep leg vein. The physician fails to notice a size discrepancy between the patient's legs and rules out a clot as the cause of the patient's symptoms. Now, let us suppose that the physician's failure to notice a size discrepancy stemmed from improper technique in the examination. Here, in the inferential move from perceiving no size discrepancy in the limbs to believing that there is no clot, the ill-foundedness of the diagnosis is specifically due to its inheriting the ill-foundedness of the perception. In such a case, the physician's belief that the patient does not have a blood clot is ill-justified by their examination. However, the examination's lack of epistemic power cannot be explained in terms of modulation by prior outlooks. Rather, its power is downgraded because of a failure in specifically _observational_ norms: the physician failed to properly examine the patient.
 
-# Epistemic Fault as a Failure to Meet Standard of Practice
+## Epistemic Fault as a Failure to Meet Standard of Practice
 
 How do we understand the epistemic downgrading of experience from violating observational rather than inferential norms?
 
@@ -122,11 +122,11 @@ What is needed, then, is an account of epistemic failure that preserves the norm
 
 The difference between the two cases is that, although both physicians lacked knowledge due to unreliable examinations, only the first physician violated the _standards of practice_. Violation of the standards of practice is the violation of a norm. It specifies the conditions under which an epistemic agent is blameworthy for failure. Moreover, standards of practice extend to aspects of a person's observational practices even where the explanation for why the observation was unreliable is purely causal in nature. As such, their applicability is broader than a purely inferential model of rationality. Applied to Siegel's case of the preformationist, we can see that the irrationality of their microscopic confirmation of preformationism stems from their being subject to confirmation bias. And insofar as confirmation bias represents an investigative failing on their part as researchers, the observational failure is attributable to them. In this case, the involvement of inference need play no role. Nonetheless, the normative force required for explaining epistemic downgrade is preserved.
 
-# Conclusion
+## Conclusion
 
 In summary, we have shown that Siegel's analysis of perceptual hijacking correctly places accountability on epistemic agents. Moreover, we have argued that the form of epistemic appraisal involved allows for the treatment of experiences and beliefs on equal footing as rational states. However, we have argued that the basis for assignment of epistemic value to experiences differs from the basis for assignment to beliefs. In particular, whereas the formation of beliefs on the basis of prior information is accountable to inferential norms; the formation of experiences as a result of observational practices is accountable to specifically observational norms. In addition, we have argued that the correct way to understand observational norms is in terms of standards of practice.
 
-# Works Cited
+## Works Cited
 
 \[1\] Delk, John L., and Samuel Fillenbaum. "Differences in perceived color as a function of characteristic color." The American journal of psychology 78, no. 2 (1965): 290-293.
 
