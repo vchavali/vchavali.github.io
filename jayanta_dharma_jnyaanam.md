@@ -132,13 +132,11 @@ still be the case that the object the senses operate on is the same as
 that which the resulting judgment is of. So, the problem of
 over-extension remains.
 
-### Some explain that the aphorism is just a review
+### Some explain that the aphorism is just a paraphrase
 
 Now, some say:
 
-**(Kumārila)** Why are you obsessing over this? We don't take the
-aphorism to be a definition at all, since this would be incompatible
-with interpreting it as just a restatement our shared understanding. To explain: the aphorism argues for perception's inability to ground normative judgments by reviewing our common-sense understanding of how perception works.
+**(Kumārila)** Why are you obsessing over this? We do not take this to be statement of a defintion at all, but as just a general paraphrase. To explain: the aphorism argues for perception's inability to ground normative judgments by paraphrasing our common-sense understanding of how perception works.
 
 Perception is not evidential with respect to normativity because it
 depends on a present object; i.e. it grasps an object that is present. And, normativity is not something *present*. As the semantic content of sentences

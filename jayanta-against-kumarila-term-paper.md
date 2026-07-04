@@ -4,11 +4,9 @@ title: Jayanta against Kumarila on Moral Knowledge
 layout: default
 ---
 
-# Preface
+# Jayanta against Kumarila on Moral Knowledge
 
-I’m posting a term paper that I wrote for a graduate philosophy seminar. The topic is the debate between Jayanta and Kumārila on the theory of moral knowledge. It draws heavily from the section of Jayanta’s Nyāyamañjarī I translated here: <a href="jayanta_dharma_jnyaanam.html">I See What I Should Do: Jayanta Bhaṭṭa on Mysticism and Moral Knowledge</a>. There are a few differences in translation choices between this paper and the earler post. I also draw extensively from the Ślōkavārttikam (mainly chapter 4) and more broadly from the Nyāyamañjarī as well. All translations from sanskrit are my own, unless otherwise noted.
-
-# Introduction
+## Introduction
 
 In the 2nd chapter of *The Flowers of Reason*<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup>, the Kaśmīrī philosopher Jayanta Bhaṭṭa (~9th ce<sup><a id="fnr.2" class="footref" href="#fn.2" role="doc-backlink">2</a></sup>) develops and responds to a contraversy in the philosophy of ritual regarding how we know whether or not a given ritual action is correct. The conception of ritual operative here is broad: ritual refers to any pattern of behaviour that can be brought under the purview of rules<sup><a id="fnr.3" class="footref" href="#fn.3" role="doc-backlink">3</a></sup>. Our concern, in particular, regards forms of ritualized behaviour where explicit rules play only an evidential role in judgments of correctness, but are not what *make* that action correct or incorrect. Let us call such rituals, ‘natural rituals’.  Natural rituals include actions whose correctness may depend on, e.g., ethical, religious, or aesthetic considerations. Understood in this way, the epistemology of ritual has broad implications for the theory of normativity as it impacts the domains of metaethics, philosophy of religion, and philosophy of art. 
 
@@ -27,7 +25,7 @@ In discussing Kumārila’s theory of evidentiality, Jayanta distinguishes betwe
 In the following sections, I will first discuss Kumārila’s critique of inferentialism in the epistemology of ritual. Following this, I will discuss the common core theory of conceptualized perception, shared by Kumārila and Jayanta. I will then explain Jayanta’s notion of insight. Next, I will develop Kumārila critique of insight, drawing on his account of conceptualization. Finally, I will show how Jayanta is able to answer these criticisms by drawing on comments he makes both in his explicit response to Kumārila as well as aspects of his general epistemology and theory of perception.
 
 
-# Correctness Cannot be Inferred
+## Correctness Cannot be Inferred
 
 The locus classicus for Kumārila’s argument against the inferrability of ritual correctness occurs in the 4th chapter of the *Annotations in Verse*. The argument is short and worth quoting in full:
 
@@ -48,7 +46,7 @@ Here, we move from a certain conception of what a promise is, as something that 
 Kumārila’s point, however, is that this sort of argumentation tells us nothing about what promising is, in definite terms<sup><a id="fnr.11" class="footref" href="#fn.11" role="doc-backlink">11</a></sup>. This is because the concept of promising includes, at the onset, notions about what it means for that action to be correct or incorrect. So, confronted with an act of verbalization, gesticulation, etc.; we cannot judge that this is an act of promising unless we can know what it would be for *that* act to be correct or incorrect. Purely sensory aspects of the behaviour—the verbalized sounds, the gesticulated shapes—do not, themselves, necessitate that this be a form of promising.
 
 
-# Conceptualization is Perception
+## Conceptualization is Perception
 
 The point of Kumārila’s argument against inferentialism is not to claim that inference plays no role in ritual knowledge. Rather, what we have is a bootstrapping problem. Once certain core concepts and conceptual relations are available, further knowledge can be obtained through reason. But how do we acquire concepts, in the first place? If it cannot come from inference, perhaps it comes from perception. That is, we can acquire concepts and basic conceptual relations by abstracting from objects which we encounter perceptually. As Kumārila puts it:
 
@@ -77,7 +75,7 @@ This is the so-called ‘cognitive perception’ (mānasapratyakṣam) which Jay
 > When we form a truthful judgment about some object without the explicit involvement of language, this is called cognitive perception. Examples include judgments of the form “kētakī flowers are fragrant,” and, “sugar is sweet.” There is no basis for complaining that insight is a form of cognition lacking causal regularity, since it obeys the same causal conditions as perception<sup><a id="fnr.19" class="footref" href="#fn.19" role="doc-backlink">19</a></sup>.
 
 
-# Insight is a form of Cognitive Perception
+## Insight is a form of Cognitive Perception
 
 Let us consider where things stand, at this point. Both Kumārila and Jayanta agree that inference depends on conceptualization as a condition of possibility. And both agree that cognitive perception, where concepts are imposed on experience via abstraction from individual sensory encounters, plays this role as a distinct faculty for the formation of judgments and the provision of evidence.
 
@@ -110,7 +108,7 @@ Consider, again, the analogy to recognizing that a particular creature is a ‘c
 > Consider: when a student starts doing concentration exercises and reading practice, certain dispositions become impressed upon their psyche and manifest as skill in recitation and recall. Or, when gold is fired in a furnace, it ever so gradually becomes purified and reaches a state of unparalleled refinement. In the same way, through meditative practice, the sage’s mental faculty becomes fit to directly access all objects of insight<sup><a id="fnr.25" class="footref" href="#fn.25" role="doc-backlink">25</a></sup>. 
 
 
-# The Demarcation Problem for Cognitive Perception
+## The Demarcation Problem for Cognitive Perception
 
 Nonetheless, there is a problem to this story, already implicit in Jayanta’s example quoted from Dharmakīrti regarding experiences coming from sadness and longing. As Jayanta has an objecter point out in the immediately following sentence:
 
@@ -125,7 +123,7 @@ Kumārila puts the point in more explicit terms:
 In other words, there is a demarcation problem at the heart of Jayanta’s theory of insight. How do we judge which forms of conceptualization *count* as evidence, and which do not?
 
 
-# Kumārila on Evidentiality
+## Kumārila on Evidentiality
 
 To this end, let us briefly discuss Kumārila’s general account of how we know what forms of cognition count as evidence.
 
@@ -144,7 +142,7 @@ Kumārila’s answer is that evidentiality applies as a default status to all co
 What this amounts to is that, for Kumārila, evidential internalism acts as a bootstrapping mechanism to identify certain kinds of evidence as foundational. The phenomenology of certain forms of experience is such that they grip us more strongly and demand our acceptance of them over and above others<sup><a id="fnr.30" class="footref" href="#fn.30" role="doc-backlink">30</a></sup>. It is these phenomenological properties, rather than some story about self-evident propositions or direct acquanitance with sense data, that explains why, e.g., valid inferences and sense perception end up as evidential primitives.
 
 
-# Cognitive Perception Depends on Sensation
+## Cognitive Perception Depends on Sensation
 
 The upshot of Kumārila’s account of evidentiality is that evidentiality is a default but brittle status. Prior to any knowledge about the origins of some cognitive phenomenon and their relations to their intensional objects, we default to belief in their evidentiality. However, any further knowledge about them threatens to cancel this default status. In the case of conceptualization, the fact that all forms of conceptualization share a common origin in our cognitive faculties threatens to cast the whole lot into disrepute on the basis of the known unreliability of a few. Kumarila argues that a certain class of cognitive processes can be carved out of this and rescued by virtue of their causal and structural dependence on sensation.
 
@@ -161,7 +159,7 @@ The same sort of issue, argues Kumārila, extends to the concept of ‘insight�
 > Even for sages, perception cannot be something extraordinary. Their perception must, like our own perception, grasp just what is present; since, it originates from sensory operation over a present object. 
 
 
-# Jayanta on Evidentiality
+## Jayanta on Evidentiality
 
 So far, I have argued that Kumārila’s rejection of insight as a form of evidence for belief traces back to certain of his commitments in the foundations of epistemology regarding the nature of evidentiality. Specifically, Kumārila’s defense of evidential internalism results in a spartan epistemology where there are a small class of foundational evidential primitives and any cognitive activity that fails to fit into the template set out by these primitives is denied status as evidence due to a blanket skepticism applied to human cognition. This yields a solution to the demarcation problem for conceptualization such that only those cases where a sensed property is identified as an instance of a sense-concept count as forms of perceptual evidence. Any other form of conceptualization is denied this status simply on the basis of its being disconnected in a narrow sense from sensation.
 
@@ -194,7 +192,7 @@ And our experience of success, unlike instrumental forms of experience, are not 
 > (Response) Cognition that motivates action, because it does not always result in success, is such that its evidentiality can be investigated. However, cognition *of* success, insofar as it itself amounts to the attainment of one’s purpose, is not the sort of thing for which evidentiality submits to investigation. This being so, where is the regress<sup><a id="fnr.36" class="footref" href="#fn.36" role="doc-backlink">36</a></sup>? 
 
 
-# Jayanta Defends the Evidentiality of Insight
+## Jayanta Defends the Evidentiality of Insight
 
 Before we discuss how Jayanta ultimately works out his account of the evidentiality of insight, it will helpful to consider a caveat to the above discussion.
 
@@ -229,7 +227,7 @@ If these are the success conditions, then what are the failure conditions? Here 
 The problem, in other words, is that cases of uninsightful judgment—such as delusions grounded in longing, or descrimination based on race and gender, etc.—fail to be evidential, despite being lucid or involving reflection on prior experience, because they are tainted by prejudice and partiality. And, insofar as these two are causes of deviation from the truth, they are sources of epistemic failure.
 
 
-# Conclusion
+## Conclusion
 
 To review, I have argued that Jayanta and Kumārila share a conception of ritual insight as a form of conceptual cognition in which an individual forms judgements involving ‘ought-concepts’ without the explicit involvement of inferences or authoritative testimony as sources of evidence. They differ in that Kumārila, unlike Jayanta, does *not* consider insight to be a form of evidence. This is because, insofar as ‘ought’-concepts do not correspond to any sensible properties, there is no principled way to separate insight from forms of conceptualization, such as wishful thinking, which are known to be nonevidential.
 
@@ -256,7 +254,7 @@ The key, for Jayanta, is that it must be possible to evaluate a tradition’s su
 However, in an epistemology of ritual where only testimony can serve as evidence for judgments of correctness, there is no scope for critiquing a tradition on “the practices it recommends”. In such a case, the problem of ritual pluralism and the underdetermination of ritual knowledge by tradition becomes insoluble.
 
 
-# Works Cited
+## Works Cited
 
 Arnold, Daniel, “Kumārila”, The Stanford Encyclopedia of Philosophy (Summer 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/sum2024/entries/kumaarila/>
 
