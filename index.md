@@ -80,7 +80,7 @@ But if someone happens to stumbles across this somehow... Welcome!
 	</tr>	
 	<tr>
 		<td><b>05/2/24&nbsp;</b></td>
-		<td><a href="homepage_translations.html">Homepage Translations</a></td>
+		<td><a href="homepage_translations.html">Homepage Sanskrit Translations</a></td>
 	</tr>
 	<tr>
 		<td><b>04/27/24&nbsp;</b></td>
