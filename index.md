@@ -13,7 +13,7 @@ svādhyāyān mā pramadaḥ ॥ Taittirīya।Śīkṣā।11।3
 <div>
 ōṁ saha nāv avatu । saha nau bhunaktu । saha vīryaṁ karavāvahai । <br>
 tejasvinām adhītam astu । mā vidviṣāvahai । ōṁ śāntiḥ śāntiḥ śāntiḥ ॥ <br> 
-Taittirīya।Brahmānda।1।1 
+Taittirīya।Brahmānanda।1।1 
 </div>
 {: .quote}
 
@@ -53,6 +53,10 @@ But if someone happens to stumbles across this somehow... Welcome!
 ### History of Philosophy
 
 <table>
+	<tr>
+		<td><b>06/04/26&nbsp;</b></td>
+		<td><a href="NN_overview_7-1-26.html">Fundamental Abstractions and Formulisms of Navyanyāya</a></td>
+	</tr>
 	<tr>
 		<td><b>12/19/25&nbsp;</b></td>
 		<td><a href="sellars_12-19-25.html">Sellars contra McDowell on Nonconceptual Mental Content</a></td>

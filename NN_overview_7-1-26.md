@@ -1,10 +1,10 @@
 ---
 author: Pramod Chavali
-title: Fundemental Abstractions and Formulisms of Navyanyāya
+title: Fundamental Abstractions and Formulisms of Navyanyāya
 layout: default
 ---
 
-# Fundemental Abstractions and Formulisms of Navyanyāya
+# Fundamental Abstractions and Formulisms of Navyanyāya
 
 ## Preamble
 
@@ -14,7 +14,7 @@ Take a look at the following the following rendition of Euclid’s proof of the 
 Let <span class="frm">S</span> be any finite set of prime numbers and <span class="frm">P</span> be the product <span class="frm">Π<sub>s∈S</sub>(s)</span>. Then either <span class="frm">P+1</span> is prime or it is not. If <span class="frm">P+1</span> is prime, then there exists a prime number not in <span class="frm">S</span>. If <span class="frm">P+1</span> is not prime, then it must be divisible by some prime number <span class="frm">q</span>. However, if 
 <span class="frm">q∈S</span> then it would also divide <span class="frm">P</span>. Therefore it would divide the difference <span class="frm">(P+1)-P</span>. But only <span class="frm">1</span> divides this difference. Therefore <span class="frm">q∉S</span>. Therefore, for any finite set of prime numbers there exists at least one prime number not in that set.
 </div>
-{: .quote .example}
+{: .example}
 
 Here, we can see that an argument is being offered in mostly natural language. However, certain formula written in a symbolic language are interspersed freely into the natural langauge argument. This is typical of the mathematical style of argumentation. We do not see proofs written entirely in a symbolic logic, where the validity of the whole proof can be decided entirely on formal grounds. Rather, formulisms service natural language arguments, making them more rigorous, easier to analyze and evaluate. We can preform algebraic manipulations on symbolic expressions and such manipulations can be evaluated on purely procedural grounds. But evaluating the argument as a whole still requires considering the semantics attached to the formalisms. 
 
@@ -25,7 +25,7 @@ Nor is it the case that the definition fails to cover such examples as of, e.g.,
 <br><br>
 However, we take the definition to be <span class="frm">⟨[Inherence⌉⟨Odor⟩⌉⟨⸣⟩›⟨⸥⟩⸥⸣ Type]⸥⟩</span>. And even though a pot created and then destroyed is never the inherence substrate of odor; there is a type ‘Earth’ occurring in substances like flowers, etc., satisfying such a condition which does occur even in a created and immediately destroyed pot. Therefore, the definition does not fail to cover this case.
 </div>
-{: .quote .example}
+{: .example}
 
 This is very similar to the use of formalisms in mathematics. We again find an argument presented in mostly natural language. But formula in a symbolic language are interspersed and help support the natural language argument. 
 
@@ -64,7 +64,7 @@ Here, we will represent the expression ‘property `Q` determined by property `P
 <div>
 P›Q 
 </div>
-{: .example .quote}
+{: .example}
 And we will represent the expression ‘property `Q` determined by location `l`’ with the notation 
 
 <div>
@@ -83,7 +83,7 @@ Now, let us suppose there exists a property `S` which occurs in all instances of
 <div>
 S⌉E
 </div>
-{: .quote .example}
+{:.example}
 
 read as ‘`S`-limited `E`’. Here, `S` is called the limiter of `E`. The property `S⌉E` is the limit of `E` that occurs in exactly the same locations as its limiter `S`. So, the limitation operator selects a particular limit of a property by specifying a limiter that coincides with that limit.
 
@@ -99,7 +99,7 @@ The symbol `Q` embedded in the expression `(L⌉P)›Q` refers to that limit of 
 <div>
 R›Q
 </div>
-{: .quote .example}
+{: .example}
 
 refers specifically to that limit of `Q` which is determined by `R`.
 
@@ -108,14 +108,14 @@ Also, we will take the limitation operator to have precedence over the determina
 <div>
 L⌉P›Q
 </div>
-{: .example .quote}
+{: .example}
 
 A similar notation exists for the location-determination operator `»`. Where the limit `L` of `P` occurs in some location `l`, and `P` determines `Q`, the expression
 
 <div>
 l»Q
 </div>
-{: .example .quote}
+{: .example}
 
 Selects for the limit of `Q` that occurs in `l` and only in `l`.
 
@@ -127,57 +127,56 @@ Let’s put this all together with the example of fire and smoke. There is a gen
 <div>
 F⌉C›E
 </div>
-{: .quote .example}
+{: .example}
 
 selects for that limit of `E` which is limited by `S`. In other words, it is equivalent to the expression:
 
 <div>
 S⌉E
 </div>
-{: .quote .example}
+{: .example}
 
 And, conversely:
 
 <div>
 S⌉E›C
 </div>
-{: .quote .example}
+{: .example}
 
 is equivalent to:
 
 <div>
 F⌉C
 </div>
-{: .quote .example}
+{: .example}
 
 ### Negations
 
-Negations are objects similar to relations. A negation is also a kind of property that occurs in two locations: one right and one left. Though, when talking about negations, we often refer to just the right location as its ‘location’ proper. We call the left location its *argument* and the left relational abstraction its *argumenthood*. Another way of phrasing this is to say that by ‘negation’ we really mean the right abstraction of a certain two-location property whose left abstraction is the argumenthood determining that negation.
+Negations are objects similar to relations. A negation is also a kind of property that occurs in two locations: one right and one left. Though, when talking about negations, we often refer to just the right location as its ‘location’ proper. We call the left location its *argument* and the left relational abstraction its *argumenthood*. 
 
-Negations can be divided into two classes: temporal and nontemporal. The temporal negations are themselves of two kinds: called ‘past negation’ and ‘future negation’. The nontemporal negations are also of two kinds: ‘total negation’ and ‘difference’. Though, in general, when we just say ‘negation’ we mean total negation.
+Another way of phrasing this is to say that by ‘negation’ we really mean the right abstraction of a certain two-location property whose left abstraction is the argumenthood determining that negation.
 
-A total negation represents a negative fact. It represents something not being true of something else or of some object not existing somewhere. 
+Negations can be divided into two classes: tensed and untensed. The tensed negations are themselves of two kinds: called ‘past negation’ and ‘future negation’. The untensed negations are also of two kinds: ‘total negation’ and ‘difference’. In general, when we just say ‘negation’ we mean total negation.
 
-Here is an example.
+A total negation represents a negative fact. It represents something not being true of something else or of some object not existing somewhere. A difference represents the fact that two objects are not identical to one another. Past and future negations represent past and future negative facts. 
 
-Let us define the property `Red` as representing the fact that something is red. And let us suppose that `Apple` refers to some object—an apple, say. Then we can represent the assertion that `Apple` is red with the notation:
+This may all seem fairly abstract at the moment. And it may not be so clear why concepts like identity and tense (past/future) should be expressed in the negative at all. These are fair questions! They have answers, but it will have to wait until we introduce some more of the machinery. For now, I will say one thing. Negations have a rich logic of composition. For example, an occurrence relation can be expressed as the negation of a negation. Universality can be expressed as the negation of existence. Disjunction can be expressed as the negation of a conjuction of negations. Different tensed concepts (‘now’, ‘later’, ‘until’, ‘unless’, ‘never’, ‘always’, etc.) can be elegantly expressed with combinations of tensed and nontensed negations. And so on. As a result, treating the negations themselves as the primitives and constructing other logical structures out of them can yield a particularly elegant analysis.
 
-<div>
-⊢ Apple Red⸥
-</div>
-{: .quote .example}
+A last point about negations. There is one important difference between negations and typical ‘positive’ relations.
 
-
-
-There is one important difference between negations and typical ‘positive’ relations, however. Think back to the generator relation between fire and smoke:
+Let us represent total negation with the expression `⟨⊥⟩`. The angle brackets `⟨` and `⟩` mean ‘property of’ and the up tack `⊥` represents the negation operator. We’ll look more closely at the notation itself in a bit. But for now, let’s just understand the expression `⟨⊥⟩` to refer to the total negation right abstraction. Similarly, let us represent the argumenthood determining `⟨⊥⟩` with the symbol `⟨⊐⟩`. Then, we can construct a more specific negation by limiting the argumenthood and selecting for its determinant:
 
 <div>
-F⌉C›E
+F⌉⟨⊐⟩›⟨⊥⟩
 </div>
+{: .example}
 
-Here, the determined `F⌉C›E` abstraction is a limit of the generic abstraction `E`. 
+The important difference pertains to the limiting relation between the generic negation `⟨⊥⟩` and the specific negation 
+`F⌉⟨⊐⟩›⟨⊥⟩`. 
 
-Now, consider a negation `N` between some 
+In the case of positive relations, e.g. the generator relation, the specific is a limit of the generic. So, the specific right generator abstraction `F⌉C›E` is a limit of the generic right abstraction `E`. However, in the case of negations, the generic is a limit of the specific! So, the generic negation `⟨⊥⟩` is a limit of the specific negation `F⌉⟨⊐⟩›⟨⊥⟩`.
+
+Can you see why this might be? I’ll leave that as an exercise to tie up everything we’ve talked about so far.
 
 ## The Formulisms
 
@@ -198,51 +197,19 @@ A statement is composed of two or more expressions. A statement comprising just 
 Given two expressions `Ψ(a)` and `Φ(b)`, we will write a simple assertion by placing a right turnstile between them:
     
 <div>
-	Ψ(a) ⊦ Φ(b)
+	⊦ Ψ(a) Φ(b)
 </div>
 {: .quote .example}
 
 A compound assertion is just multiple simple assertions joined together with a comma:
 
 <div>
-	ψ<sub>1</sub>(a) ⊦ φ<sub>1</sub>(b), Ψ<sub>2</sub>(a) ⊦ Φ<sub>2</sub>(b), ...
+	⊦ ψ<sub>1</sub>(a) φ<sub>1</sub>(b), Ψ<sub>2</sub>(a) Φ<sub>2</sub>(b), ...
 </div>
 {: .quote .example}
 
-A simple assertion `Ψ(a) ⊦ Φ(b)` is true if and only if there exists some object `O` such that `a` and `b` can both evaluate to `O`. In other words, the assertion `Ψ(a) ⊦ Φ(b)` asserts that there exists a 
+A simple assertion `⊦ Ψ(a) Φ(b)` is true if and only if there exists some object `O` such that `a` and `b` can both evaluate to `O`. In other words, the assertion `⊦ Ψ(a) Φ(b)` asserts that there exists a 
 
 ## Some Laws Relating to the Fundamental Abstractions
 
-## Some Special Abstractions
-
-### Logic
-
-#### Predication
-
-#### Negation
-
-#### Conjuction
-
-#### Disjunction
-
-#### Existence
-
-#### Universality
-
-#### Tense
-
-### Language
-
-#### Words in General
-
-#### Some special words
-
-##### Names
-
-##### Indexicals
-
-##### Quantifiers
-
-#### Sentences
-
-## Translation of the Definition of Pr̥thvī from the Tarkasangrahasarvasvam
+## Excerpt from the Tarkasangrahasarvasvam
