@@ -169,7 +169,7 @@ Let us represent total negation with the expression `⟨⊥⟩`. The angle brack
 <div>
 F⌉⟨⊐⟩›⟨⊥⟩
 </div>
-{: .example}
+{: .quote .example}
 
 The important difference pertains to the limiting relation between the generic negation `⟨⊥⟩` and the specific negation 
 `F⌉⟨⊐⟩›⟨⊥⟩`. 
