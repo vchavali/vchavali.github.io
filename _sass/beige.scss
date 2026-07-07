@@ -97,7 +97,7 @@ h1 {
     font-family: Iosevka-Thin;
 }*/
 
-.quote {
+.quote, .example {
     color: #555555;
     background: #FFFDD0; // #fff5bc
     padding: 20px;
@@ -109,8 +109,14 @@ h1 {
   //  border-color: #ffeaaf;
 }
 
+span.frm {
+    color: #0066CC
+}
+    
 .example {
     // nil
+    font-family: Iosevka-Medium, NotoSansDevanagiri-Medium;
+   
 }
 
 

@@ -14,7 +14,7 @@ Take a look at the following the following rendition of Euclid’s proof of the 
 Let <span class="frm">S</span> be any finite set of prime numbers and <span class="frm">P</span> be the product <span class="frm">Π<sub>s∈S</sub>(s)</span>. Then either <span class="frm">P+1</span> is prime or it is not. If <span class="frm">P+1</span> is prime, then there exists a prime number not in <span class="frm">S</span>. If <span class="frm">P+1</span> is not prime, then it must be divisible by some prime number <span class="frm">q</span>. However, if 
 <span class="frm">q∈S</span> then it would also divide <span class="frm">P</span>. Therefore it would divide the difference <span class="frm">(P+1)-P</span>. But only <span class="frm">1</span> divides this difference. Therefore <span class="frm">q∉S</span>. Therefore, for any finite set of prime numbers there exists at least one prime number not in that set.
 </div>
-{: .example}
+{: .quote}
 
 Here, we can see that an argument is being offered in mostly natural language. However, certain formula written in a symbolic language are interspersed freely into the natural langauge argument. This is typical of the mathematical style of argumentation. We do not see proofs written entirely in a symbolic logic, where the validity of the whole proof can be decided entirely on formal grounds. Rather, formulisms service natural language arguments, making them more rigorous, easier to analyze and evaluate. We can preform algebraic manipulations on symbolic expressions and such manipulations can be evaluated on purely procedural grounds. But evaluating the argument as a whole still requires considering the semantics attached to the formalisms. 
 
@@ -25,7 +25,7 @@ Nor is it the case that the definition fails to cover such examples as of, e.g.,
 <br><br>
 However, we take the definition to be <span class="frm">⟨[Inherence⌉⟨Odor⟩⌉⟨⸣⟩›⟨⸥⟩⸥⸣ Type]⸥⟩</span>. And even though a pot created and then destroyed is never the inherence substrate of odor; there is a type ‘Earth’ occurring in substances like flowers, etc., satisfying such a condition which does occur even in a created and immediately destroyed pot. Therefore, the definition does not fail to cover this case.
 </div>
-{: .example}
+{: .quote}
 
 This is very similar to the use of formalisms in mathematics. We again find an argument presented in mostly natural language. But formula in a symbolic language are interspersed and help support the natural language argument. 
 
@@ -74,7 +74,7 @@ l»Q
 
 ### Limiters
 
-Let’s go back to the example of fire generating smoke. There, we looked at a generator-generated relation `fGs` between a particular instance of fire `f` and a particular instance of smoke `s`. We then defined two relational abstractions <span class="frm">G<sub>f</sub></span> and <span class="frm">G<sub>s</sub></span> occurring in each location. But there is `G` relation between each instance of fire and smoke. And there are right and left abstractions for each of these relations. And, in fact, this extends beyond fire and smoke. For any two objects such that one generators the other, there is a seperate <span class="frm">G<sub>x</sub></span> relation between then, and correlate right and left abstractions for each. 
+Let’s go back to the example of fire generating smoke. There, we looked at a generator-generated relation `fGs` between a particular instance of fire `f` and a particular instance of smoke `s`. We then defined two relational abstractions <span class="frm">G<sub>f</sub></span> and <span class="frm">G<sub>s</sub></span> occurring in each location. But there is `G` relation between each instance of fire and smoke. And there are right and left abstractions for each of these relations. And, in fact, this extends beyond fire and smoke. For any two objects such that one generates the other, there is a seperate <span class="frm">G<sub>x</sub></span> relation between then, and correlate right and left abstractions for each. 
 
 We can define a generic relation `G` as a property that occurs in any location of any <span class="frm">G<sub>x</sub></span> location. Then, each individual <span class="frm">G<sub>x</sub></span> relation is called a *limit* of the generic relation `G`. And we can make a similar move for each of relational abstraction of `G`. Let’s define `E` (for ‘effect’) to be a property that occurs in any location where some right `G` abstraction occurs. Then each individual right abstraction is a *limit* of `E`. Similarly, each individual left `G` abstraction can be considered a limit of some property `C` (for cause).
 

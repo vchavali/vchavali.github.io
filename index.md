@@ -17,7 +17,7 @@ Taittirīya।Brahmānanda।1।1
 </div>
 {: .quote}
 
-This is the online notebook of Pramod Chavali: a place to record my notes on whatever I've been studying or thinking about. I'm putting this here mostly as a personal journaling exercise and to inject some discipline into my own *svādhyāyamu* (self-study). 
+This is the online notebook of Pramod Chavali: a place to record my notes on whatever I've been studying or thinking about. I'm putting this here mostly as a personal journaling exercise and to inject some discipline into my own *svādhyāya* (self-study). 
 
 <div>
 na hi kiñcid apūrvam atra vācyam <br>

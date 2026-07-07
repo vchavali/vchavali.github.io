@@ -1,0 +1,34 @@
+body, pre { text-decoration: none;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  color: #333333;  background: #ffffff;  font-size: 12pt; }
+span.default   { text-decoration: none;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  color: #333333;  background: #ffffff;  font-size: 12pt; }
+span.default a {  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  color: #333333;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.markdown-bold-face   { text-decoration: none;  color: #000000;  font-weight: 700;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  background: #ffffff;  font-size: 12pt; }
+span.markdown-bold-face a {  color: #000000;  font-weight: 700;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.markdown-inline-code-face   { text-decoration: none;  color: #006400;  background: #fdfff7;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  font-size: 12pt; }
+span.markdown-inline-code-face a {  color: #006400;  background: #fdfff7;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  font-size: 12pt; text-decoration: underline; }
+span.markdown-header-face-3   { text-decoration: none;  font-weight: 700;  color: #005522;  background: #efffef;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  font-size: 13pt; }
+span.markdown-header-face-3 a {  font-weight: 700;  color: #005522;  background: #efffef;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  font-size: 13pt; text-decoration: underline; }
+span.markdown-html-attr-value-face   { text-decoration: none;  color: #008000;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; }
+span.markdown-html-attr-value-face a {  color: #008000;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.markdown-html-attr-name-face   { text-decoration: none;  color: #ba36a5;  font-weight: 500;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  background: #ffffff;  font-size: 12pt; }
+span.markdown-html-attr-name-face a {  color: #ba36a5;  font-weight: 500;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.markdown-html-tag-name-face   { text-decoration: none;  color: #6434a3;  font-weight: 500;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  background: #ffffff;  font-size: 12pt; }
+span.markdown-html-tag-name-face a {  color: #6434a3;  font-weight: 500;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.markdown-html-tag-delimiter-face   { text-decoration: none;  color: #7f7f7f;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; }
+span.markdown-html-tag-delimiter-face a {  color: #7f7f7f;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.markdown-italic-face   { text-decoration: none;  color: #1a1a1a;  font-style: italic;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  background: #ffffff;  font-size: 12pt; }
+span.markdown-italic-face a {  color: #1a1a1a;  font-style: italic;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.markdown-header-face-2   { font-weight: 700;  text-decoration: overline;  color: #123555;  background: #e5f4fb;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  font-size: 13pt; }
+span.markdown-header-face-2 a { font-weight: 700;  text-decoration: overline;  color: #123555;  background: #e5f4fb;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  font-size: 13pt; text-decoration: underline; }
+span.markdown-header-face-1   { font-weight: 700;  text-decoration: overline;  color: #3c3c3c;  background: #f0f0f0;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  font-size: 17pt; }
+span.markdown-header-face-1 a { font-weight: 700;  text-decoration: overline;  color: #3c3c3c;  background: #f0f0f0;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  font-size: 17pt; text-decoration: underline; }
+span.markdown-header-delimiter-face   { text-decoration: none;  color: #7f7f7f;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; }
+span.markdown-header-delimiter-face a {  color: #7f7f7f;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.default-0000   { text-decoration: none;  font-size: 105%; }
+span.default-0000 a {  font-size: 105%; text-decoration: underline; }
+span.markdown-metadata-value-face   { text-decoration: none;  color: #008000;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; }
+span.markdown-metadata-value-face a {  color: #008000;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.markdown-metadata-key-face   { text-decoration: none;  color: #ba36a5;  font-weight: 500;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  background: #ffffff;  font-size: 12pt; }
+span.markdown-metadata-key-face a {  color: #ba36a5;  font-weight: 500;  font-family: "Iosevka";  font-stretch: normal;  font-style: normal;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+span.markdown-markup-face   { text-decoration: none;  color: #7f7f7f;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; }
+span.markdown-markup-face a {  color: #7f7f7f;  font-family: "Iosevka";  font-stretch: normal;  font-weight: nil;  font-style: normal;  background: #ffffff;  font-size: 12pt; text-decoration: underline; }
+ 
