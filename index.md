@@ -11,7 +11,7 @@ svādhyāyān mā pramadaḥ ॥ Taittirīya।Śīkṣā।11।3
 ### About
 
 <div>
-ōṁ saha nāv avatu । saha nau bhunaktu । saha vīryaṁ karavāvahai । <br>
+ōṁ saha nāvavatu । saha nau bhunaktu । saha vīryaṁ karavāvahai । <br>
 tejasvinām adhītam astu । mā vidviṣāvahai । ōṁ śāntiḥ śāntiḥ śāntiḥ ॥ <br> 
 Taittirīya।Brahmānanda।1।1 
 </div>

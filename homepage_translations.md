@@ -34,7 +34,7 @@ Speak truth. Do right. Never stop learning.
 ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । <br>
 तेजस्विनावधीतमस्तु मा विद्विषावहै । ॐ शान्तिः शान्तिः शान्तिः ॥ <br> <br>
 
-ōṁ saha nāv avatu । saha nau bhunaktu । saha vīryaṁ karavāvahai । <br>
+ōṁ saha nāvavatu । saha nau bhunaktu । saha vīryaṁ karavāvahai । <br>
 tejasvinām adhītam astu mā vidviṣāvahai ॥ ōṁ śāntiḥ śāntiḥ śāntiḥ ॥
 </div>
 {: .quote}
