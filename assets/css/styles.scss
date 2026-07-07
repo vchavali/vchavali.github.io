@@ -1,3 +1,224 @@
 ---
 ---
-@import "main";
+// @import "main";
+@font-face {
+    font-family: Iosevka;
+    src: url(fonts/Iosevka-Regular.ttf);
+}
+@font-face {
+    font-family: Iosevka-Medium;
+    src: url(fonts/Iosevka-Medium.ttf);
+}
+@font-face {
+    font-family: Iosevka-Thin;
+    src: url(fonts/Iosevka-Thin.ttf);
+}
+@font-face {
+    font-family: NotoSansDevanagiri;
+    src: url(fonts/NotoSansDevanagari-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansDevanagiri-Thin;
+    src: url(fonts/NotoSansDevanagari-Thin.ttf);
+}
+@font-face {
+    font-family: TiroDevanagariHindi-Regular;
+    src: url(fonts/TiroDevanagariHindi-Regular.ttf);
+}
+@font-face {
+    font-family: Raleway-VF;
+    src: url(fonts/Raleway-VF.ttf);
+}
+@font-face {
+    font-family: Raleway-Italic-VF;
+    src: url(fonts/Raleway-Italic-VF.ttf);
+}
+@font-face {
+    font-family: Test;
+    src: url(fonts/Prociono-Regular-webfont.ttf);
+}
+
+body {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: Iosevka, TiroDevanagariHindi-Regular;
+    text-decoration: none;
+    font-stretch: normal;
+    font-weight: nil;
+    font-style: normal;
+    color: #ebdbb2;
+    background: #32302f;
+    font-size: 12pt; }
+
+.doubleColumn {
+    column-count: 2;
+    column-gap: 10px;
+}
+
+
+/*h3:before {
+    background: #FFFFFF;
+    color: #d3d3d3;
+    font-family: Iosevka-Thin;
+    content: "### "
+}*/
+h3{
+    text-decoration: none;
+    color: #ADD8E6;
+    font-stretch: normal;
+    font-weight: nil;
+    font-style: normal;
+    background: #32302f;
+    font-size: 12pt; 
+    
+    display: table;
+   // background: #EFFFEF;
+    text-align: left;
+    padding: 5px;
+}
+
+h2 {
+    text-decoration: none;
+    color: #fabd2f;
+    font-stretch: normal;
+    font-weight: nil;
+    font-style: normal;
+    background: #32302f;
+    font-size: 12pt;
+
+ //   text-decoration-line: overline;
+//    text-decoration-color: #123555;
+    display: table;
+   // background: #E5F4FB;
+    text-align: left;
+    padding: 5px;
+
+}
+
+// h2:before {
+//     // text-decoration-color: #FFFFFF;
+//     // background: #FFFFFF;
+//     color:  #fabd2f  ;
+//     font-family: Iosevka;
+//     content: " # "
+// }
+
+h1 {
+    text-decoration: none;
+    color: #BBE6AD;
+    font-stretch: normal;
+    font-weight: nil;
+    font-style: normal;
+    background: #32302f;
+    font-size: 14pt;
+    
+//    text-decoration-line: overline;
+//    text-decoration-color: #A7A7A7;
+    display: table;
+    text-align: left;
+		     
+   // background: #F0F0F0;
+   // color: #3C3C3C;
+    
+ //   color: #1434A4;
+   // text-decoration-line: underline;
+}
+
+
+/* h1:before {
+    background: #FFFFFF;
+    color: #d3d3d3;
+    content: "# ";
+    font-family: Iosevka-Thin;
+}*/
+
+.quote, .example {
+    color: #b8bb26;
+    padding: 20px;
+    font-size: 14px;
+    //border: solid;
+    // border-width: 2px;
+  //  border-color: #ffeaaf;
+}
+
+span.frm {
+    color: #d3869b
+}
+    
+.example {
+    // nil
+    border-left: 2px solid #b8bb26;
+    padding-left: 16px;
+
+   
+}
+
+
+code {
+    // background: #F7FDFF;
+    color: #d3869b;
+    padding: 2px;
+   // font-size: 16px;
+    
+}
+
+.examplecaption {
+    font-style: italic;
+    font-size: 12px;
+    text-decoration: underline;
+    
+}
+
+.titlecaption {
+//    background: #F7FDFF;
+    color: #ebdbb2;
+    font-size: 14px;
+
+    font-style: italic;
+  //  font-weight: bold;
+    
+}
+
+a {
+    color: #ebdbb2;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+ //   font-style: oblique;
+}
+.navItem {
+    color: #83a598;;
+  //  font-family: Iosevka-Thin, NotoSansDevanagiri-Thin;
+    text-decoration: underline;
+    text-decoration-style: solid;
+		    
+}
+
+.footerCopyright {
+    float: right; // left;
+    text-justify: right;
+    font-size: 10px;
+}
+
+.footerAttributions { 
+    float: left; //right;
+    font-size: 10px;
+}
+
+.mdtable {
+    td {
+	padding-right: 10px;
+    }
+    thead {
+	text-align: left;
+    }
+    th {
+	padding-right: 10px;
+	border-bottom: 2px solid;
+    }
+
+    tbody {
+        border: 2px solid black;
+    }
+}
