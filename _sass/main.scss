@@ -30,14 +30,11 @@
     font-family: Raleway-Italic-VF;
     src: url(fonts/Raleway-Italic-VF.ttf);
 }
-@font-face {
-    font-family: Test;
-    src: url(fonts/Prociono-Regular-webfont.ttf);
-}
+
 
 body {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
     padding-top: 20px;
     padding-bottom: 10px;
     font-family: Iosevka, TiroDevanagariHindi-Regular;
@@ -47,7 +44,7 @@ body {
     font-style: normal;
     color: #ebdbb2;
     background: #32302f;
-    font-size: 12pt; }
+    font-size: 14pt; }
 
 .doubleColumn {
     column-count: 2;
@@ -68,7 +65,6 @@ h3{
     font-weight: nil;
     font-style: normal;
     background: #32302f;
-    font-size: 12pt; 
     
     display: table;
    // background: #EFFFEF;
@@ -83,7 +79,6 @@ h2 {
     font-weight: nil;
     font-style: normal;
     background: #32302f;
-    font-size: 12pt;
 
  //   text-decoration-line: overline;
 //    text-decoration-color: #123555;
@@ -109,7 +104,7 @@ h1 {
     font-weight: nil;
     font-style: normal;
     background: #32302f;
-    font-size: 14pt;
+    font-size: 16pt;
     
 //    text-decoration-line: overline;
 //    text-decoration-color: #A7A7A7;
