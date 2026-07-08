@@ -51,6 +51,9 @@ body {
     column-gap: 10px;
 }
 
+p + p {
+  margin-top: 1.5rem;
+}
 
 /*h3:before {
     background: #FFFFFF;

@@ -12,8 +12,8 @@ svādhyāyān mā pramadaḥ ॥ Taittirīya।Śīkṣā।11।3
 
 <div>
 ōṁ saha nāvavatu । saha nau bhunaktu । saha vīryaṁ karavāvahai । <br>
-tejasvinām adhītam astu । mā vidviṣāvahai । ōṁ śāntiḥ śāntiḥ śāntiḥ ॥ <br> 
-Taittirīya।Brahmānanda।1।1 
+tejasvinām adhītam astu । mā vidviṣāvahai ॥ <br>
+ōṁ śāntiḥ śāntiḥ śāntiḥ ॥ Taittirīya।Brahmānanda।1।1 
 </div>
 {: .quote}
 
@@ -55,7 +55,7 @@ But if someone happens to stumbles across this somehow... Welcome!
 <table>
 	<tr>
 		<td><b>06/04/26&nbsp;</b></td>
-		<td><a href="NN_overview_7-1-26.html">Fundamental Abstractions and Formulisms of Navyanyāya</a></td>
+		<td><a href="NN_overview_7-1-26.html">Fundamental Abstractions and Formulisms of Navyanyāya <b>[under constuction]</b></a></td>
 	</tr>
 	<tr>
 		<td><b>12/19/25&nbsp;</b></td>

@@ -74,11 +74,11 @@ l»Q
 
 ### Limiters
 
-Let’s go back to the example of fire generating smoke. There, we looked at a generator-generated relation `fGs` between a particular instance of fire `f` and a particular instance of smoke `s`. We then defined two relational abstractions <span class="frm">G<sub>f</sub></span> and <span class="frm">G<sub>s</sub></span> occurring in each location. But there is `G` relation between each instance of fire and smoke. And there are right and left abstractions for each of these relations. And, in fact, this extends beyond fire and smoke. For any two objects such that one generates the other, there is a seperate <span class="frm">G<sub>x</sub></span> relation between then, and correlate right and left abstractions for each. 
+Let’s go back to the example of fire generating smoke. There, we looked at a generator-generated relation `fGs` between a particular instance of fire `f` and a particular instance of smoke `s`. We then defined two relational abstractions <span class="frm">G<sub>f</sub></span> and <span class="frm">G<sub>s</sub></span> occurring in each location. But there is a generator relation between each instance of fire and smoke. And there are right and left abstractions for each of these relations. And, in fact, this extends beyond fire and smoke to any two objects such that one generates another. 
 
-We can define a generic relation `G` as a property that occurs in any location of any <span class="frm">G<sub>x</sub></span> location. Then, each individual <span class="frm">G<sub>x</sub></span> relation is called a *limit* of the generic relation `G`. And we can make a similar move for each of relational abstraction of `G`. Let’s define `E` (for ‘effect’) to be a property that occurs in any location where some right `G` abstraction occurs. Then each individual right abstraction is a *limit* of `E`. Similarly, each individual left `G` abstraction can be considered a limit of some property `C` (for cause).
+Now, suppose there exists a property `E` (for effect) which occurs in each location of a right abstraction of some generator relation. Then each of these individual right abstraction is called a *limit* of `E`. We then call `E` the generic right abstraction of the generator relation. Similarly, each individual left generator abstraction can be considered a limit of a generic left generator abstraction `C` (for cause).
 
-Now, let us suppose there exists a property `S` which occurs in all instances of smoke. Then, we can gather together just those `G` right abstractions that occur in locations of `S` by *limiting* `E` by `S`. We will represent this with the notation:
+Let us suppose, further, that there exists a property `S` which occurs in all instances of smoke. Then we can gather together just those limits of `E` that occur in locations of `S` by *limiting* `E` by `S`. We will represent this with the notation:
 
 <div>
 S⌉E
@@ -120,9 +120,9 @@ l»Q
 Selects for the limit of `Q` that occurs in `l` and only in `l`.
 
 
-**A Full Example**
+### Combining limiters and determiners
 
-Let’s put this all together with the example of fire and smoke. There is a generator relation `G` between each instance of fire and each instance of smoke with a generic right abstraction `E` occurring in the smoke and a generic left abstraction `C` occuring in the fire. Let `F` be a property occurring in all and only instances of  fire and `S` be a property similarly occuring in instances of smoke. Then the property:
+Let’s put this all together with the example of fire and smoke. There is a generator relation between each instance of fire and each instance of smoke with a generic right abstraction `E` occurring in the smoke and a generic left abstraction `C` occuring in the fire. Let `F` be a property occurring in all and only instances of  fire and `S` be a property similarly occuring in instances of smoke. Then the property:
 
 <div>
 F⌉C›E
@@ -160,7 +160,7 @@ Negations can be divided into two classes: tensed and untensed. The tensed negat
 
 A total negation represents a negative fact. It represents something not being true of something else or of some object not existing somewhere. A difference represents the fact that two objects are not identical to one another. Past and future negations represent past and future negative facts. 
 
-This may all seem fairly abstract at the moment. And it may not be so clear why concepts like identity and tense (past/future) should be expressed in the negative at all. These are fair questions! They have answers, but it will have to wait until we introduce some more of the machinery. For now, I will say one thing. Negations have a rich logic of composition. For example, an occurrence relation can be expressed as the negation of a negation. Universality can be expressed as the negation of existence. Disjunction can be expressed as the negation of a conjuction of negations. Different tensed concepts (‘now’, ‘later’, ‘until’, ‘unless’, ‘never’, ‘always’, etc.) can be elegantly expressed with combinations of tensed and nontensed negations. And so on. As a result, treating the negations themselves as the primitives and constructing other logical structures out of them can yield a particularly elegant analysis.
+This may all seem fairly abstract at the moment. And it may not be so clear why concepts like identity and tense (past/future) should be expressed in the negative at all. These are fair questions! Part of the answer is this: Negations have a rich logic of composition. For example, an occurrence relation can be expressed as the negation of a negation. Universality can be expressed as the negation of existence. Disjunction can be expressed as the negation of a conjuction of negations. Different tensed concepts (‘now’, ‘later’, ‘until’, ‘unless’, ‘never’, ‘always’, etc.) can be elegantly expressed with combinations of tensed and nontensed negations. And so on. As a result, treating the negations themselves as the primitives and constructing other logical structures out of them can yield a particularly elegant analysis.
 
 A last point about negations. There is one important difference between negations and typical ‘positive’ relations.
 
@@ -178,6 +178,14 @@ In the case of positive relations, e.g. the generator relation, the specific is 
 
 Can you see why this might be? I’ll leave that as an exercise to tie up everything we’ve talked about so far.
 
+### Facts
+
+Individual symbols represent objects. When symbols are embedded in larger expressions, then their reference is modulated by the other symbols in the expression. For example, if the symbol `F` refers to fire. Then, the symbol `F` embedded in the expression `(S⌉E›C)⌉F` refers specifically to smoking fires. That is, to fires that generate smoke.
+
+Note that for traditional Navyanaiyyāyikas, expressions do not refer. Only symbols do. This is a point of some contention and there is a whole value about the reference-values of expressions and sentences. But, we won’t get into that so much here.
+
+Regardless of our position on this question, one thing is clear. We have only been talking about referring to *objects*. But, we also need a way to talk about facts. 
+
 ## The Formulisms
 
 ### Symbols
@@ -194,7 +202,7 @@ The symbols that make up an expression can themselves be divided into two kinds:
 
 A statement is composed of two or more expressions. A statement comprising just two expressions is called a simple statement. A statement containing more than two expressions is a compound statement. Statements—and *only* statements—can be assigned a truth value. The truth value of a statement is assigned on the basis of a relation between the values of the expressions (really the values of the expression heads) that make it up. Statements can also be divided into two categories based on how its truth value is assigned: assertions and definitions.
 
-Given two expressions `Ψ(a)` and `Φ(b)`, we will write a simple assertion by placing a right turnstile between them:
+Given two expressions `Ψ(a)` and `Φ(b)`, we will write a simple assertion by placing a right turnstile before them:
     
 <div>
 	⊦ Ψ(a) Φ(b)
@@ -208,7 +216,7 @@ A compound assertion is just multiple simple assertions joined together with a c
 </div>
 {: .quote .example}
 
-A simple assertion `⊦ Ψ(a) Φ(b)` is true if and only if there exists some object `O` such that `a` and `b` can both evaluate to `O`. In other words, the assertion `⊦ Ψ(a) Φ(b)` asserts that there exists a 
+A simple assertion `⊦ Ψ(a) Φ(b)` is true if and only if there exists some object `O` such that `a` and `b` can both evaluate to `O`. In other words, the assertion `⊦ Ψ(a) Φ(b)` asserts that there exists a some object to which both `a` and `b` can bind to in their respective expressions.
 
 ## Some Laws Relating to the Fundamental Abstractions
 
