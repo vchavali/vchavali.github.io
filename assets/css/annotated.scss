@@ -20,19 +20,19 @@
 }
 .annotation.topLevelDrawerItemHandle:hover {
     cursor: pointer;
-    color: blue;
+    color: #652C21;
     font-weight: bold;
 }
 .annotation.drawerItemHeaderClose {
     vertical-align: super;
     font-size: 14px;
-    color: gray;
+    color: red;
     text-align: right;
     font-weight: bold;
 }
 .annotation.drawerItemHeaderClose:hover {
     cursor: pointer;
-    color: blue;
+    color: #652C21;
     font-weight: bold;
 }
 .annotation.drawerItemHeader {
@@ -40,20 +40,20 @@
     width: 100%;
     border-bottom: solid;
     border-width: 2px;
-    border-color: gray;
+    border-color: #ebdbb2;
 }
 .annotation.drawerItemHeaderTitle {
     text-align: left;
     text-transform: capitalize;
-    color: black;
+ //   color: black;
 }
 .annotation.drawerItem {
     border: solid;
     border-width: 3px;
     padding: 10px 20px 10px 20px;
     box-sizing: border-box;
-    background-color: #f6f0d5;
-    border-color: #f0e5bc;
+    border-color: #ebdbb2;
+   // border-color: #f0e5bc;
 }
 .annotation.drawerHeader {
     // z-index: 1;
@@ -70,7 +70,7 @@
 }
 .annotation.drawerHeader:hover {
     cursor: pointer;
-    color: blue;
+    color: #652C21;
     font-weight: bold;
 }
 
@@ -82,7 +82,7 @@
 
 .annotation.sectionDivider {
     text-align: center;
-    color: gray;
+  //  color: gray;
      // z-index: 1;
      //top: 100%;
      // margin-top: 5px;
@@ -92,19 +92,19 @@
 }
 
 .annotation.noteIsOpened {
-    background-color: #c7dbf0;
+    //background-color: #c7dbf0;
     padding: 1px;
     cursor: pointer; 
 }
 .annotation.n:hover {
-    background-color: #c7dbf0;
+  //  background-color: #c7dbf0;
     padding: 1px;
     cursor: pointer; 
 }
 
 
 .annotation.refn:hover{
-    background-color: #c7dbf0;
+ //   background-color: #c7dbf0;
     padding: 1px;
     cursor: pointer;   
 }
@@ -147,8 +147,8 @@
 .annotation.tl  .tltxt {
   visibility: hidden;
   // width: 120px;
-  background-color: lightgray;
-  color: #000;
+  background-color: #ebdbb2;
+  color: #32302f;
   text-align: center;
   padding: 5px;
   border-radius: 6px;
