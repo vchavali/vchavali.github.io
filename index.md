@@ -79,6 +79,10 @@ But if someone happens to stumbles across this somehow... Welcome!
 
 <table>
 	<tr>
+		<td><b>10/12/26&nbsp;</b></td>
+		<td><a href="dignaga_PS5.html">Diṇnāga on the Incommensurability of Perception and Language</a></td>
+	</tr>	
+	<tr>
 		<td><b>03/17/25&nbsp;</b></td>
 		<td><a href="tcm-1.1.1.html">Tattvacintāmaṇi । Prāmāṇyajñaptivādaḥ । Knowing our Evidence</a></td>
 	</tr>	
