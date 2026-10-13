@@ -20,7 +20,7 @@ The first kind of knowledge is what Diṅnāga calls “perception”. The secon
 
 The word Diṅnāga gives, which he inherits from a much older tradition, is “measure” (pramāṇam). A measure is something that, in some vague pretheoretic sense of the word, captures information about some aspect of the world: the measurable object (prameyaḥ). The result of the operation of a measure on an object is *measurement* (pramitiḥ). Traditions and philosophers prior to Diṅnāga debated the number, nature, and interrelations of the measures extensively. But the idea that the concept is split into two incommensurable domains is a hallmark of Diṅnāgian thought.
 
-The key to understanding the incommensurability thesis lies in the nature of language. The incommensurability argument appears in the beginning of the fifth chapter of *On Measurement*, in which Diṅnāga works out his general theory of language. The Sanskrit original is lost, but it is preserved in two Tibetan translations and as excerpts quoted in Jinendrabuddhi’s Sanskrit commentary on the text. Quotations from it also survive scattered across sources throughout Sanskrit philosophical literature. The Sanskrit text reproduced in this essay is reconstructed from the Tibetan by Ole Pind (2015). The translation, though, is my own.
+The key to understanding the incommensurability thesis lies in the nature of language. The incommensurability argument appears in the beginning of the fifth chapter of *On Measurement*, in which Diṅnāga works out his general theory of language. The Sanskrit original is lost, but it is preserved in two Tibetan translations and as excerpts quoted in Jinendrabuddhi’s Sanskrit commentary on the text. Quotations from it also survive scattered across sources throughout Sanskrit philosophical literature. The Sanskrit text reproduced in this essay is reconstructed from the extant sources by Ole Pind (2015). The translation, though, is my own.
 
 According to this theory, the linguistic measure—the use of language to capture information about the world—is not distinct from the inferential measure. From the perspective of the theory of measures, language is just inference (na pramāṇāntaram śābdam anumānāt [1]). On this account, linguistic expressions and their mental analogues in thought convey information not by representing the properties of objects but by placing constraints on further language use.
 
@@ -62,9 +62,9 @@ Now consider the following account for the condition of a class term. Suppose th
 
 Diṅnāga begins the reduction by showing that a class term cannot directly signify its subdivisions. The reason is that the use condition for a class term does not, in principle, fix the number of subdivisions it can have. Nothing about the meaning of the word ‘blue’ precludes the possibility of encountering a shade of blue you have never seen before—no matter how many blue shades you have encountered thus far. This means that the condition for a class term that directly signifies its subdivisions would have an infinite number of elements. But such a condition can never be learned. And this would violate the second constraint on semantic connections. Diṅnāga refers to this as the problem of infinity (ānantyāt. [2b1]).
 
-On the other hand, if we allow a class term to have different use conditions across different applications, then we would not need to learn the full disjunction to apply it in coordination with any particular subdivision. But this would violate the first constraint. Since one class term could operate under multiple use conditions, we would not know which condition is operational in a particular use and would remain in doubt about what information the term is meant to convey. Diṅnāga calls this the problem of inconstancy (vyabhicārataḥ. [2b2]).
+On the other hand, if we allow a class term to have different use conditions across different applications, then we would not need to learn the full disjunction to apply it in coordination with any particular subdivision. But this would violate the first constraint on semantic connections. Since one class term could operate under multiple use conditions, we would not know which condition is operational in a particular use and would remain in doubt about what information the term is meant to convey. Diṅnāga calls this the problem of inconstancy (vyabhicārataḥ. [2b2]).
 
-Another possibility is that the condition for a class term involves a completely different object feature than the terms for its subdivision. That is to say, ‘blue’ and ‘teal’ simply refer to different perceptual features. But then, obviously, they would violate the second constraint on term coordination. Or they refer to the same feature and end up synonymous, violating the first constraint. Diṅnāga refers to this as the problem of coordination (bhedārthair apṛthakśruteḥ. [2cd]). 
+Another possibility is that the condition for a class term involves a completely different object feature than the terms for its subdivision. That is to say, ‘blue’ and ‘teal’ simply refer to different perceptual features. But then, obviously, they would violate the second constraint on term coordination. Or they refer to the same feature and end up synonymous, violating the first constraint on term coordination. Diṅnāga refers to this as the problem of coordination (bhedārthair apṛthakśruteḥ. [2cd]). 
 
 There is, however, another way to understand this possibility. Namely, that each class term involves a different condition but one and the same object feature satisfies both conditions. Diṅnāga refers to this idea as a class term signifying an object as belonging to a class (tadvato [4a]). In this case, the shared object between two class terms becomes the basis for their coordination. And the differing classes form the basis for their difference in meaning. Thus the problem of coordination is easily answered.
 
@@ -72,7 +72,7 @@ In response to this, Diṅnāga provides a deeper reason for why class terms in 
 
 But, this is not how the relation between class and subdivision works. There is no such thing as a generic blue shade. We can only conceive of particular shades, never a generic ‘blue’. Similarly, when we learn that a shade of color is ‘teal’, we automatically understand that it is ‘blue’, assuming we also know the term ‘blue’. The conditions of these terms are logically connected—semantically connected—such that one cannot be fully separated from the other and each treated as independent conditions that merely *happen* to be satisfied by the same features. Diṅnāga calls this the problem of non-independence (nāsvatantratvāt [4a]).
 
-Diṅnāga’s discussion of the coordination problem ends here. However, there is another possibility worth considering. Namely, what if the use condition of a class term is complex—involving the conjunction of multiple primitive conditions. Internal relations between class and subdivision terms can be explained in terms of a shared kernel, with different subdivisions differing from each other via additional conditions in the conjunction. In such a case, the model of use conditions as distinct classes would break down since the concept of classes models only logically simply use conditions.
+Diṅnāga’s discussion of the coordination problem ends here. However, there is another possibility worth considering. Namely, what if the use condition of a class term is complex—involving the conjunction of multiple primitive conditions. Internal relations between class and subdivision terms can be explained in terms of a shared kernel, with different subdivisions differing from each other via additional conditions in the conjunction. In such a case, the model of use conditions as distinct classes would break down since the concept of classes models only logically simple use conditions.
 
 Diṅnāga does not discuss this issue explicitly, perhaps because he takes it for granted that all complex terms can be rewritten via their definitions into primitive class terms (involving class based use conditions) that are still subdivisible and coordinable. This assumption is not obviously true, though it does seem like it would be acceptable to his main interlocutors given their metaphysical commitments; e.g., the account of universals defended by the Naiyyāyikas. However, even if we do not accept this assumption for class terms in general, something more can be said in this regard where specifically perceptual features are concerned.
 
@@ -106,10 +106,10 @@ na pramāṇāntaraṃ śābdam anumānāt. tathā hi saḥ \\\\ kṛtakatvādiv
 
 We have claimed that there are just two measures. But some think that the linguistic measure is distinct:
 
-The linguistic measure is not distinct from inference. Just as with a reason such as “because it is produced”, an expression presents its own information by excluding contrary information.
+The linguistic measure is not distinct from inference. Just as with a reason such as “because it is produced”, an expression presents its own information by excluding other information.
 {: .quote}
 
-When a linguistic expression is applied to an object it indicates that aspect of the object with which it is invariably connected by excluding contrary information in the same way as a reason in an inference, as in “[it is impermanent] because it is produced”. So the linguistic measure is not distinct from inference.
+When a linguistic expression is applied to an object it indicates that aspect of the object with which it is invariably connected by excluding other information in the same way as a reason in an inference, as in “[it is impermanent] because it is produced”. So the linguistic measure is not distinct from inference.
 
 ### Infinity and Inconstancy
 
@@ -153,7 +153,7 @@ Moreover,
 Due to inconstancy.
 {: .quote}
 
-The term ‘entity’ is applied to qualities, etc., just as it is to substances. Therefore its use is not constant and there would be doubt about its information. No signification would occur.
+The term ‘entity’ is applied to qualities, etc., just as it is to substances. Therefore its use is not constant and there would be doubt about its meaning. No signification would occur.
 
 ### Coordination
 
