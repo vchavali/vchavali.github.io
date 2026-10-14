@@ -80,7 +80,7 @@ But if someone happens to stumbles across this somehow... Welcome!
 <table>
 	<tr>
 		<td><b>10/12/26&nbsp;</b></td>
-		<td><a href="dignaga_PS5.html">Diṇnāga on the Incommensurability of Perception and Language</a></td>
+		<td><a href="dignaga_PS5.html">Diṇnāga on the Incommensurability of Experience and Thought</a></td>
 	</tr>	
 	<tr>
 		<td><b>03/17/25&nbsp;</b></td>
