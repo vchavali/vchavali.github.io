@@ -1,18 +1,18 @@
 ---
 author: Pramod Chavali
-title: Diṅnāga on the Incommensurability of Perception and Language
+title: Diṅnāga on the Incommensurability of Experience and Thought
 layout: default
 ---
 
-# Diṅnāga on the Incommensurability of Perception and Language
+# Diṅnāga on the Incommensurability of Experience and Thought
 
 A translation and discussion of the Pramāṇasamuccayaḥ, chapter V, verses 1-4 and svavr̥ttiḥ. 
 
 ## Discussion
 
-In the fifth chapter of his magnum opus, *On Measurement* (Pramāṇasamuccayaḥ), Diṅnāga develops one of his most profound and disturbing insights into the nature of human cognition: the incommensurability of perception with language.
+In the fifth chapter of his magnum opus, *On Measurement* (Pramāṇasamuccayaḥ), Diṅnāga develops one of his most profound and disturbing insights into the nature of human cognition: the incommensurability of experience with thought.
 
-The incommensurability thesis (pramāṇavyavasthāvādaḥ) states that there can be no transfer of information between perception and language. In the direction of perception to language, this means that we can never justify any claim with reference to experience nor claim to know the contents of any experiential state. This creates a symmetry between the first and third person perspective. It is almost a cliche to say to another, “You could never know how I feel!”. But if Diṅnāga is right then *I* don’t know how I feel either. It also leaves the status of empirical knowledge in an uncertain place. What does it mean to say that I know facts about the natural world if the information captured by that knowledge does not pass from nature to mind through sensation? In the direction of language to perception, this means we can never communicate the content of our experience nor capture the structure of experience in language. Insofar as all science—all theory—is fundamentally linguistic, this means there can never be a *science* of consciousness. No theory of experience. 
+The incommensurability thesis (pramāṇavyavasthāvādaḥ) states that there can be no transfer of information between the experiential and conceptual domains of our cognition. This means that, in the direction of experience to thought, we can never justify any claim with reference to experience nor claim to know the contents of any experiential state. This creates a symmetry between the first and third person perspective. It is almost a cliche to say to another, “You could never know how I feel!”. But if Diṅnāga is right then *I* don’t know how I feel either. It also leaves the status of empirical knowledge in an uncertain place. What does it mean to say that I know facts about the natural world if the information captured by that knowledge does not pass from nature to mind through sensation? In the direction of thought to experience, this means we can never communicate the content of our experience nor capture the structure of experience in language. Insofar as all science—all theory—is fundamentally linguistic, this means there can never be a *science* of consciousness. No theory of experience. 
 
 The incommensurability thesis separates our idea of knowledge into two distinct conceptions. On the one hand, we think of knowledge under a metaphor of *illumination*. For something to be known is for it to be present to us, to make a difference to *us* in our cognitive lives. The concept of luminosity is theorized as a distinctively epistemic concept in the first chapter of Diṅnāga’s work. A second conception of knowledge is as something that guides action and brings it under a rational description. We reason from diagnosis to intervention in a step-by-step process which is transparent, public, and capable of evaluation. 
 
