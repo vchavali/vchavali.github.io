@@ -66,7 +66,7 @@ On the other hand, if we allow class terms to have different use conditions acro
 
 If the use condition for a class term cannot be the same—either individually or collectively—as that of its subdivision terms, then perhaps coordinated class terms involve completely distinct use conditions. But this would seem to violate the second constraint on term coordination. For instance, ‘blue’ and ‘teal’ applied to the same perceived object would refer to distinct perceptual features. Diṅnāga refers to this as the problem of coordination (bhedārthair apṛthakśruteḥ. [2cd]). 
 
-However, it could be that one and the same feature possessing two different properties could satisfy two different use conditions simultaneously. So, when two different class terms are coordinated, a shared target becomes the basis for their coordination. And the distinct properties involved in their use condition forms the basis for the difference in meaning between the two terms. Thus the problem of coordination is easily answered. Diṅnāga refers to this as a class term signifying a target feature *via* a property (tadvato [4a]). 
+However, it could be that one and the same object possessing two different properties could satisfy two different use conditions simultaneously. So, when two different class terms are coordinated, their common object becomes the basis for coordination. And the distinct properties involved in their use condition forms the basis for the difference in meaning between the two terms. Thus the problem of coordination is easily answered. Diṅnāga refers to this as a class term signifying *via* a property (tadvato [4a]). 
 
 In response, Diṅnāga provides a deeper reason for why the use conditions for class terms in a class-subdivision relation cannot involve distinct properties. This is because then their semantic content would be logically independent—the class term condition would not imply the possibility of subdivision and the subdivision term condition would not entail the class term condition. So, their connection to the same features would be an empirical fact about the properties involved, but not a logical fact about the form of their use conditions.
 
@@ -206,7 +206,7 @@ evam api hi sacchabdo jātisvarūpamātropasarjanaṃ dravyam āha, na sākṣā
 
 #### English
 
-But to those who say that a class term just signifies something via a property since then there could be coordination, establishing a connection would be feasible, and its use would be constant:
+But to those who say that a class term just signifies via a property since then there could be coordination, establishing a connection would be feasible, and its use would be constant:
 
 Not via a property due to non-independence.
 {: .quote}
